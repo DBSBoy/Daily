@@ -1,2 +1,2 @@
 # Daily
-MiniDao,算法，java
+算法，java8
